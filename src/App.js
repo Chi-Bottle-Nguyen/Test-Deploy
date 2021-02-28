@@ -9,10 +9,10 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/Test-Deploy">
             <Home />
           </Route>
-          <Route exact path="/login">
+          <Route exact path="/Test-Deploy/login">
             <Login />
           </Route>
         </Switch>
